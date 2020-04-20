@@ -1,0 +1,93 @@
+Outline:
+
+Part 1: Core Concepts
+
+We’ll go deep into different terms of Kubernetes to understand what it takes to build and run scalable systems in production. There are design patterns that you can implement in Kubernetes to extend an existing application without having to change the source code, like a sidecar pattern.
+
+- Kubernetes APIs
+- Deploy Kubernetes with Ansible
+- Pods, deployments, services, namespaces, daemonsets
+- Imperative and Declarative manifests
+- Working with multiple clusters (kubeconfig)
+- Docker Refresher
+- Navigating the Kubernetes Lab Environment
+- The Kubernetes get Command
+- The Kubernetes describe Command
+- Creating a Pod Manifest
+- Port Forwarding with Kubernetes
+- Run Create or Apply
+- Using the kubectl exec Command
+- Resource Definition and Controls
+- Kubernetes design patterns
+- Multi-containers in pods
+- Init Containers
+
+Part 2: Security Practices and Recommendations
+
+Kubernetes is not secure by default, and there are many considerations that you need to be aware of if before exposing your applications to the public internet. Companies usually have existing security policies, so we’ll cover how these security practices apply in a Kubernetes ecosystem.
+
+- Recommended security practices
+- Authentication and authorization
+- Patching and upgrading practices
+- Using secrets with pods (env or volumes)
+- Networking policies
+- Pod Security Policy
+- Admission controls
+- Create and Consume Secrets
+- Kubernetes Namespace
+- Kubernetes Context
+- Create and Deploy a Network Policy
+
+Part 3: Extending the Kubernetes API
+
+Learn Kubernetes Operator and custom resource definition by deploying Kubernetes native Jenkins operator. We will deploy this live in class.
+
+- Define a custom resource definition and why it is needed.
+- Why do you need a custom resource definition?
+- Define an operator pattern
+- Examples of common operators
+- Understand the difference between CRDs and operators
+
+Part 4: Developing Stateful Services
+
+Stateless services are great for certain use cases, but there are scenarios where an application needs to be able to store data permanently, or at least work with data that is not ephemeral.
+
+- Understanding persistent volumes
+- Exercises: 
+- Add a Storage Volume to a Pod
+- Add a Dynamic Volume to a Pod
+
+Part 5: Networking in Kubernetes
+
+Understanding how networking works in Kubernetes is important because it will help you to configure networking patterns like service discovery for a microservices architecture. But another concept that is taking more relevance are service meshes. We’ll explore what a service mesh is.
+
+- Understanding pod networking communication
+- Understanding service networking communication
+- Exposing applications with Ingress controllers
+- Introduction to service meshes
+- Building a Composite Pod
+- Setting up a single tier service mesh
+
+Part 6: Creating Scalable and Fault-Tolerant Applications
+
+Kubernetes has a lot of great features built-in by implementing the controller pattern. But in many cases, our applications need to include small configurations to help Kubernetes make better decisions to support reliable applications. We’ll see what changes are needed in the applications, and then we’ll deploy and test a sample application.
+
+- Working with probes
+- Configuring requests and limits
+- Configuring scaling policies
+- Taints and tolerations
+- Node selectors
+- Deploy a Metrics Server
+- Add autoscaling to a deployment
+- Rollout and Rollback
+- Horizontal Scaling with kubectl *scale*
+- Deploy a Metrics Server
+- Add autoscaling to a deployment
+
+Part 7: Using Helm and Tiller
+
+- Introduction to Helm and Tiller
+- Packaging and managing applications with Helm
+- Exercises:
+- Install Jenkins Using Helm and run demo CI test jobs
+
