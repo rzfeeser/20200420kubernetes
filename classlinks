@@ -1,0 +1,14 @@
+---
+- links:
+  - Uniform Resource Identifier (URI) Generic Syntax:
+    https://tools.ietf.org/html/rfc3986
+  - REST documentation:
+    https://roy.gbiv.com/pubs/dissertation/rest_arch_style.htm
+  - etcd:
+    https://etcd.io/
+  - Envoy Proxy:
+    https://www.envoyproxy.io/
+  - NGINX Proxy:
+    https://www.nginx.com/
+  - Kubernetes Documentation:
+    
