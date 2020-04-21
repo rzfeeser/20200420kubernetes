@@ -12,4 +12,6 @@
     https://www.nginx.com/
   - Kubectl Overview:
     https://kubernetes.io/docs/reference/kubectl/overview/
+  - Kubernetes API:
+    https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/
     
