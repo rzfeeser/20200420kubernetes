@@ -12,8 +12,8 @@ X Working with multiple clusters (kubeconfig)
 X Docker Refresher
 X Navigating the Kubernetes Lab Environment
 X The Kubernetes get Command
-- The Kubernetes describe Command
-- Creating a Pod Manifest
+X The Kubernetes describe Command
+X Creating a Pod Manifest
 - Port Forwarding with Kubernetes
 - Run Create or Apply
 - Using the kubectl exec Command
@@ -34,8 +34,8 @@ Kubernetes is not secure by default, and there are many considerations that you 
 - Pod Security Policy
 - Admission controls
 - Create and Consume Secrets
-- Kubernetes Namespace
-- Kubernetes Context
+X Kubernetes Namespace
+X Kubernetes Context
 - Create and Deploy a Network Policy
 
 Part 3: Extending the Kubernetes API
