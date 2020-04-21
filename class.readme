@@ -32,12 +32,30 @@ Questions
 
 
 Outline for the Week
+** = critical lab
 --------------------
 Monday:
- - Complete Labs:
+ - Complete Labs:  
+    - **Lab 01 (Docker Review)
+    - **Lab 02 (Install K8S with Ansible)
+    - **Lab 03 (Namespaces & Resource Quotas)
+    - **Lab 04 (Contexts)
+    -   Lab 05 (get)      Try to get done for Tuesday
+    -   Lab 06 (describe) Try to get done for Tuesday
    
 Tuesday:
  - Complete Labs:
+    - Lab 07 (Create and Config Pods)
+    - Lab 08 (Debug via kubectl port forward)
+    - Lab 09 (Imperative vs Declarative)
+    - Lab 10 (Cmds inside Pods)
+    - Lab 11 (Labels and Selectors)
+    - Lab 12 (Annotations)
+    - Lab 13 (Replica Sets)
+    - Lab 14 (Building an image registry)
+    - Lab 15 (Writing a manifest)
+    - Lab 16 (Rolling updates and rollbacks)
+    - Lab 17 (Horizontal Scaling with kubectl scale)
    
 Wednesday:
  - Complete Labs:

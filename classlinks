@@ -10,5 +10,6 @@
     https://www.envoyproxy.io/
   - NGINX Proxy:
     https://www.nginx.com/
-  - Kubernetes Documentation:
+  - Kubectl Overview:
+    https://kubernetes.io/docs/reference/kubectl/overview/
     
