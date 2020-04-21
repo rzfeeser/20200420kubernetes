@@ -6,18 +6,18 @@ We’ll go deep into different terms of Kubernetes to understand what it takes t
 
 X Kubernetes APIs
 X Deploy Kubernetes with Ansible
-- Pods, deployments, services, namespaces, daemonsets
-- Imperative and Declarative manifests
+X Pods, deployments, services, namespaces, daemonsets
+X Imperative and Declarative manifests
 X Working with multiple clusters (kubeconfig)
 X Docker Refresher
 X Navigating the Kubernetes Lab Environment
 X The Kubernetes get Command
 X The Kubernetes describe Command
 X Creating a Pod Manifest
-- Port Forwarding with Kubernetes
-- Run Create or Apply
-- Using the kubectl exec Command
-- Resource Definition and Controls
+X Port Forwarding with Kubernetes
+X Run Create or Apply
+X Using the kubectl exec Command
+X Resource Definition and Controls
 - Kubernetes design patterns
 - Multi-containers in pods
 - Init Containers
@@ -79,7 +79,7 @@ Kubernetes has a lot of great features built-in by implementing the controller p
 - Node selectors
 - Deploy a Metrics Server
 - Add autoscaling to a deployment
-- Rollout and Rollback
+X Rollout and Rollback
 - Horizontal Scaling with kubectl *scale*
 - Deploy a Metrics Server
 - Add autoscaling to a deployment
