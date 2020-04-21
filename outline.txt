@@ -4,14 +4,14 @@ Part 1: Core Concepts
 
 We’ll go deep into different terms of Kubernetes to understand what it takes to build and run scalable systems in production. There are design patterns that you can implement in Kubernetes to extend an existing application without having to change the source code, like a sidecar pattern.
 
-- Kubernetes APIs
-- Deploy Kubernetes with Ansible
+X Kubernetes APIs
+X Deploy Kubernetes with Ansible
 - Pods, deployments, services, namespaces, daemonsets
 - Imperative and Declarative manifests
-- Working with multiple clusters (kubeconfig)
-- Docker Refresher
-- Navigating the Kubernetes Lab Environment
-- The Kubernetes get Command
+X Working with multiple clusters (kubeconfig)
+X Docker Refresher
+X Navigating the Kubernetes Lab Environment
+X The Kubernetes get Command
 - The Kubernetes describe Command
 - Creating a Pod Manifest
 - Port Forwarding with Kubernetes
