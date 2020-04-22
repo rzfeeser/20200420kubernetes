@@ -14,4 +14,6 @@
     https://kubernetes.io/docs/reference/kubectl/overview/
   - Kubernetes API:
     https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/
+  - IANA HTTP Response Codes:
+    https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
     
