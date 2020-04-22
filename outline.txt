@@ -87,5 +87,4 @@ Part 7: Using Helm and Tiller
 
 - Introduction to Helm and Tiller
 - Packaging and managing applications with Helm
-- Exercises:
 - Install Jenkins Using Helm and run demo CI test jobs

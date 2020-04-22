@@ -16,4 +16,11 @@
     https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/
   - IANA HTTP Response Codes:
     https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
-    
+  - Init containers:
+    https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+  - Kubernetes Annotations:
+    https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/
+  - Kubernetes Secrets:
+    https://kubernetes.io/docs/concepts/configuration/secret/
+  - Kubernetes Dynamic Volume Provisioning:
+    https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/  
