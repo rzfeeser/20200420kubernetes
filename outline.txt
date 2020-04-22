@@ -29,7 +29,7 @@ Kubernetes is not secure by default, and there are many considerations that you 
 - Recommended security practices
 - Authentication and authorization
 - Patching and upgrading practices
-- Using secrets with pods (env or volumes)
+X Using secrets with pods (env or volumes)
 - Networking policies
 - Pod Security Policy
 - Admission controls
@@ -53,7 +53,6 @@ Part 4: Developing Stateful Services
 Stateless services are great for certain use cases, but there are scenarios where an application needs to be able to store data permanently, or at least work with data that is not ephemeral.
 
 - Understanding persistent volumes
-- Exercises: 
 - Add a Storage Volume to a Pod
 - Add a Dynamic Volume to a Pod
 
@@ -73,14 +72,14 @@ Part 6: Creating Scalable and Fault-Tolerant Applications
 Kubernetes has a lot of great features built-in by implementing the controller pattern. But in many cases, our applications need to include small configurations to help Kubernetes make better decisions to support reliable applications. We’ll see what changes are needed in the applications, and then we’ll deploy and test a sample application.
 
 - Working with probes
-- Configuring requests and limits
-- Configuring scaling policies
+X Configuring requests and limits
+X Configuring scaling policies
 - Taints and tolerations
 - Node selectors
 - Deploy a Metrics Server
 - Add autoscaling to a deployment
 X Rollout and Rollback
-- Horizontal Scaling with kubectl *scale*
+X Horizontal Scaling with kubectl *scale*
 - Deploy a Metrics Server
 - Add autoscaling to a deployment
 
@@ -90,4 +89,3 @@ Part 7: Using Helm and Tiller
 - Packaging and managing applications with Helm
 - Exercises:
 - Install Jenkins Using Helm and run demo CI test jobs
-
