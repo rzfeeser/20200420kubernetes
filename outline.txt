@@ -30,7 +30,7 @@ Kubernetes is not secure by default, and there are many considerations that you 
 - Authentication and authorization
 - Patching and upgrading practices
 X Using secrets with pods (env or volumes)
-- Networking policies
+X Networking policies
 - Pod Security Policy
 - Admission controls
 X Create and Consume Secrets
