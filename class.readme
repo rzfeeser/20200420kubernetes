@@ -63,17 +63,17 @@ Tuesday:
    
 Wednesday:
  - Complete Labs:
-    - Lab 18 LivenessProbes and ReadinessProbes
-    - Lab 19 Setting an Application’s Resource Requirements
-    - Lab 20 Kubernetes Jobs and CronJobs
-    - Lab 21 Best Practices for Container Customization
-    - Lab 22 Persistent Configuration with ConfigMaps
-    - Lab 23 Create and Consume Secrets
-    - Lab 24 Init Containers
-    - Lab 25 Using PersistentVolumeClaims for Storage
-    - Lab 26 Dynamically Provision PersistentVolumes with NFS
-    - Lab 27 Deploy a NetworkPolicy
-    - Lab 28 Calicoctl
+    - Lab 18 (LivenessProbes and ReadinessProbes)
+    - Lab 19 (Setting an Application’s Resource Requirements)
+    - Lab 20 (Kubernetes Jobs and CronJobs)
+    - Lab 21 (Best Practices for Container Customization)
+    - Lab 22 (Persistent Configuration with ConfigMaps)
+    - Lab 23 (Create and Consume Secrets)
+    - Lab 24 (Init Containers)
+    - Lab 25 (Using PersistentVolumeClaims for Storage)
+    - Lab 26 (Dynamically Provision PersistentVolumes with NFS)
+    - Lab 27 (Deploy a NetworkPolicy)
+    - Lab 28 (Calicoctl)
    
 Thursday:
  - Complete Labs:
@@ -82,8 +82,8 @@ Thursday:
     - Lab 30 (Expose a Service Via Ingress)
     - Lab 31 (Multi-Container Pod Design) # tcpdump
     - Lab 32 (Setting up a single tier service mesh)
-    - Lab 33 (Using Helm to install a Chart)
-    - Lab 34 (Tainted Nodes and Tolerations)
+    - Lab 33 (Tainted Nodes and Tolerations)
+    - Lab 34 (Using Helm to install a Chart)
     - Lab 35 (A Completed Project)
     - Lab 36 (Install Jenkins Using Helm and Run a Demo Job)
     - Lab 37 (Custom Resource Definition)
