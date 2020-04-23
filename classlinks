@@ -28,3 +28,5 @@
     https://github.com/hashicorp/vault-k8s
   - Helm Deep Dive video on version 3.0.0 release
     https://www.youtube.com/watch?v=afCRt5Gd6Rk
+  - Uploading a chart to Helm
+    https://github.com/helm/hub/blob/master/Repositories.md
