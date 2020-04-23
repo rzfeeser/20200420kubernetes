@@ -29,7 +29,11 @@
 
 Questions
 ---------
+- if I have 5 master controllers and I lose lets say 3 of them.  leaving only 2 - if I am going to be living in that scenario for a long period of time would I need to add a third back somehow in order to maintain quorum
 
+- more on hashi vault and secrets
+
+- JA - I'm seeing lots of yaml files that could get confusing and I was wondering if there is a standard layout/structure that should be communicated/used
 
 Outline for the Week
 ** = critical lab
@@ -59,9 +63,33 @@ Tuesday:
    
 Wednesday:
  - Complete Labs:
+    - Lab 18 LivenessProbes and ReadinessProbes
+    - Lab 19 Setting an Application’s Resource Requirements
+    - Lab 20 Kubernetes Jobs and CronJobs
+    - Lab 21 Best Practices for Container Customization
+    - Lab 22 Persistent Configuration with ConfigMaps
+    - Lab 23 Create and Consume Secrets
+    - Lab 24 Init Containers
+    - Lab 25 Using PersistentVolumeClaims for Storage
+    - Lab 26 Dynamically Provision PersistentVolumes with NFS
+    - Lab 27 Deploy a NetworkPolicy
+    - Lab 28 Calicoctl
    
 Thursday:
  - Complete Labs:
+    - Lab 50 (Vault Demo) # Demo / Optional
+    - Lab 29 (Exposing a Service)
+    - Lab 30 (Expose a Service Via Ingress)
+    - Lab 31 (Multi-Container Pod Design) # tcpdump
+    - Lab 32 (Setting up a single tier service mesh)
+    - Lab 33 (Using Helm to install a Chart)
+    - Lab 34 (Tainted Nodes and Tolerations)
+    - Lab 35 (A Completed Project)
+    - Lab 36 (Install Jenkins Using Helm and Run a Demo Job)
+    - Lab 37 (Custom Resource Definition)
+    - Lab 38 (Patching)
+    - Lab 39 (Understanding Security Contexts for Cluster Access Control)
     
 Friday:
  - Complete Labs:
+    - 
