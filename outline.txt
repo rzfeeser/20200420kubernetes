@@ -18,8 +18,8 @@ X Port Forwarding with Kubernetes
 X Run Create or Apply
 X Using the kubectl exec Command
 X Resource Definition and Controls
-- Kubernetes design patterns
-- Multi-containers in pods
+X Kubernetes design patterns
+X Multi-containers in pods
 X Init Containers
 
 Part 2: Security Practices and Recommendations
@@ -27,7 +27,7 @@ Part 2: Security Practices and Recommendations
 Kubernetes is not secure by default, and there are many considerations that you need to be aware of if before exposing your applications to the public internet. Companies usually have existing security policies, so we’ll cover how these security practices apply in a Kubernetes ecosystem.
 
 - Recommended security practices
-- Authentication and authorization
+X Authentication and authorization
 - Patching and upgrading practices
 X Using secrets with pods (env or volumes)
 X Networking policies
@@ -36,7 +36,7 @@ X Networking policies
 X Create and Consume Secrets
 X Kubernetes Namespace
 X Kubernetes Context
-- Create and Deploy a Network Policy
+X Create and Deploy a Network Policy
 
 Part 3: Extending the Kubernetes API
 
@@ -60,12 +60,12 @@ Part 5: Networking in Kubernetes
 
 Understanding how networking works in Kubernetes is important because it will help you to configure networking patterns like service discovery for a microservices architecture. But another concept that is taking more relevance are service meshes. We’ll explore what a service mesh is.
 
-- Understanding pod networking communication
-- Understanding service networking communication
-- Exposing applications with Ingress controllers
-- Introduction to service meshes
-- Building a Composite Pod
-- Setting up a single tier service mesh
+X Understanding pod networking communication
+X Understanding service networking communication
+X Exposing applications with Ingress controllers
+X Introduction to service meshes
+X Building a Composite Pod
+X Setting up a single tier service mesh
 
 Part 6: Creating Scalable and Fault-Tolerant Applications
 
@@ -74,10 +74,10 @@ Kubernetes has a lot of great features built-in by implementing the controller p
 - Working with probes
 X Configuring requests and limits
 X Configuring scaling policies
-- Taints and tolerations
-- Node selectors
+X Taints and tolerations
+X Node selectors
 - Deploy a Metrics Server
-- Add autoscaling to a deployment
+X Add autoscaling to a deployment
 X Rollout and Rollback
 X Horizontal Scaling with kubectl *scale*
 - Deploy a Metrics Server
@@ -85,6 +85,6 @@ X Horizontal Scaling with kubectl *scale*
 
 Part 7: Using Helm and Tiller
 
-- Introduction to Helm and Tiller
-- Packaging and managing applications with Helm
+X Introduction to Helm and Tiller
+X Packaging and managing applications with Helm
 - Install Jenkins Using Helm and run demo CI test jobs
