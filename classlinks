@@ -26,3 +26,5 @@
     https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/  
   - HashiVault vault-k8s
     https://github.com/hashicorp/vault-k8s
+  - Helm Deep Dive video on version 3.0.0 release
+    https://www.youtube.com/watch?v=afCRt5Gd6Rk
