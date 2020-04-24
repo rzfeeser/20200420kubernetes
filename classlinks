@@ -30,3 +30,5 @@
     https://www.youtube.com/watch?v=afCRt5Gd6Rk
   - Uploading a chart to Helm
     https://github.com/helm/hub/blob/master/Repositories.md
+  - Example of why you need a CRD
+    https://github.com/kubevirt/demo
