@@ -28,11 +28,11 @@ Kubernetes is not secure by default, and there are many considerations that you 
 
 - Recommended security practices
 X Authentication and authorization
-- Patching and upgrading practices
+X Patching and upgrading practices
 X Using secrets with pods (env or volumes)
 X Networking policies
-- Pod Security Policy
-- Admission controls
+X Pod Security Policy
+X Admission controls
 X Create and Consume Secrets
 X Kubernetes Namespace
 X Kubernetes Context
@@ -42,11 +42,11 @@ Part 3: Extending the Kubernetes API
 
 Learn Kubernetes Operator and custom resource definition by deploying Kubernetes native Jenkins operator. We will deploy this live in class.
 
-- Define a custom resource definition and why it is needed.
-- Why do you need a custom resource definition?
-- Define an operator pattern
-- Examples of common operators
-- Understand the difference between CRDs and operators
+X Define a custom resource definition and why it is needed.
+X Why do you need a custom resource definition?
+X Define an operator pattern
+X Examples of common operators
+X Understand the difference between CRDs and operators
 
 Part 4: Developing Stateful Services
 
@@ -71,20 +71,20 @@ Part 6: Creating Scalable and Fault-Tolerant Applications
 
 Kubernetes has a lot of great features built-in by implementing the controller pattern. But in many cases, our applications need to include small configurations to help Kubernetes make better decisions to support reliable applications. We’ll see what changes are needed in the applications, and then we’ll deploy and test a sample application.
 
-- Working with probes
+X Working with probes
 X Configuring requests and limits
 X Configuring scaling policies
 X Taints and tolerations
 X Node selectors
-- Deploy a Metrics Server
+X Deploy a Metrics Server
 X Add autoscaling to a deployment
 X Rollout and Rollback
 X Horizontal Scaling with kubectl *scale*
-- Deploy a Metrics Server
-- Add autoscaling to a deployment
+X Deploy a Metrics Server
+X Add autoscaling to a deployment
 
 Part 7: Using Helm and Tiller
 
 X Introduction to Helm and Tiller
 X Packaging and managing applications with Helm
-- Install Jenkins Using Helm and run demo CI test jobs
+X Install Jenkins Using Helm and run demo CI test jobs

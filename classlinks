@@ -32,3 +32,5 @@
     https://github.com/helm/hub/blob/master/Repositories.md
   - Example of why you need a CRD
     https://github.com/kubevirt/demo
+  - Logging techniques
+    https://kubernetes.io/docs/concepts/cluster-administration/logging/
